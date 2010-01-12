@@ -1,0 +1,28 @@
+body {
+	font-family: Arial;
+	margin: 30px;
+}
+
+h1 {
+	color: #D33381;
+	border-bottom: black 3px dotted;
+}
+
+td.cell {
+    width: 60px;
+    height: 60px;
+    border: solid 1px black;
+    text-align: center;
+}
+
+td.light {
+    background-color: #EEE;
+}
+
+td.dark {
+    background-color: #555;
+}
+
+td.highlight {
+    background-color: pink;
+}
